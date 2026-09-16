@@ -4,9 +4,9 @@ const app = express();
 
 // --- CONFIGURATION ---
 const config = {
-    host: 'YOUR_SERVER_IP', 
+    host: 'domainsmp.indernos.in', 
     port: 25565,            
-    username: 'FlickZZ',    
+    username: 'Hell',    
     version: '1.16.5',      
     password: 'password123'
 };
