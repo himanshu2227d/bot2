@@ -6,7 +6,7 @@ const app = express();
 const config = {
     host: 'domainsmp.indernos.in', 
     port: 25565,            
-    username: 'BATMAN',    
+    username: 'Naturo',    
     version: '1.16.5',      
     password: 'password123'
 };
