@@ -3,8 +3,8 @@ const { pathfinder, Movements, goals } = require('mineflayer-pathfinder');
 const { GoalNear } = goals;
 
 const config = {
-  host: 'Himanshu2227.aternos.me', // Your server IP
-  port: 39479,                       // Your server port
+  host: 'domainsmp.indernos.in', // Your server IP
+  port: 25565,                       // Your server port
   username: 'BatMan',
   version: '1.20.1',                 // Set your exact server version
   password: 'password123',
